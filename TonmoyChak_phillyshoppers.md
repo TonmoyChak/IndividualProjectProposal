@@ -13,18 +13,18 @@ Apache Tomcat is very straight forward to use. The reason for choosing Apache To
 The project includes several goals that are highlighted for the course. I downloaded the projects and in first sections I noticed this project includes object-orientated design, test driven development, Junit testing, parallel computing, design patterns, debugging, XML, data mining and access to data bases. All of these requirements are going to be full filled by this Apache Tomcat project. We can configure and extract the data whatever we want. But in order to configure all files, there must be certain steps we should take to ensure our accuracy. In addition, since Apace Tomcat powers numerous large-scale web software, so it is included XML, HTML, jsp files. It involves maintain all of these data as well. Finally, for fulfilling the second set of goal, I would say working on this project demonstrates testing, building, debugging, version control and issue tracking on apache page.
 
 ## Conceptual Design
-I'd love to devlope this web app with my group. Since the app is very straight forward to devlope. All we will do in this project basic java, xml, servelet. It's a very straight forward web app. I think we can absolutely do this project faster and if we put little amount of time everyday. We can use any ide for java and for using Tomcat you will have to install Tomcat 9.0 which is very simple. You can do it on Terminal. 
+I'd love to devolve this web app with my group. Since the app is very straight forward to develop. All we will do in this project basic java, xml, servlet. It's a very straight forward web app. I think we can absolutely do this project faster and if we put little amount of time every day. We can use any ide for java and for using Tomcat you will have to install Tomcat 9.0 which is very simple. You can do it on Terminal. 
 ## Background
 Website url: https://projects.apache.org/project.html?tomcat
 
 Building
 
 Do now work with IntelliJ IDEA community edition 2020.2 (I have tried) I have used on MacOS instead.
-Select pom.xml when opening project in IntelliJ IDEA. And I also used Tomcat 9.0 for running pom.xml and servelet file.
+Select pom.xml when opening project in IntelliJ IDEA. And I also used Tomcat 9.0 for running pom.xml and servlet file.
 First build is taking a long time as it is downloading many things but eventually succeed.
 
 Running
-Xml and servlet ran succesfully in Tomcat 9.0
+Xml and servlet ran successfully in Tomcat 9.0
 Do not contain main
 
 Required Resources
